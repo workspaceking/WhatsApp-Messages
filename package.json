@@ -1,13 +1,13 @@
 {
   "name": "whatsapp",
-  "productName": "Whatsapp Multiple Message Sending",
+  "productName": "Whatsapp Messaging",
   "version": "1.2",
   "description": "",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "Ali Baran Eser",
+  "author": "Begaak",
   "license": "ISC",
   "dependencies": {
     "electron-chromedriver": "^6.0.0",
